@@ -1,0 +1,5 @@
+﻿  LDSE.cpp
+C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\LDSE.cpp(236,20): warning C4473: 'printf' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\LDSE.cpp(244,24): warning C4473: 'printf' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\LDSE.cpp(68,1): warning C4715: 'InserirInit2': nem todos os caminhos de controle retornam um valor
+  LDSE.vcxproj -> C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\x64\Debug\LDSE.exe

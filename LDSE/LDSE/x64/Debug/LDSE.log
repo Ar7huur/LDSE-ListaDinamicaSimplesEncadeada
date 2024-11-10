@@ -1,0 +1,8 @@
+﻿  LDSE.cpp
+C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\LDSE.cpp(237,20): warning C4473: 'printf' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\LDSE.cpp(245,24): warning C4473: 'printf' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\LDSE.cpp(645,12): warning C4101: 'dados': variável local não referenciada
+C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\LDSE.cpp(688,20): warning C4101: 'atual': variável local não referenciada
+C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\LDSE.cpp(69,1): warning C4715: 'InserirInit2': nem todos os caminhos de controle retornam um valor
+C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\LDSE\LDSE.cpp(710,1): warning C4715: 'ExcluirUmNomeDaLDSE': nem todos os caminhos de controle retornam um valor
+  LDSE.vcxproj -> C:\Users\Arthur\Desktop\Estudos LDSE\LDSE\x64\Debug\LDSE.exe
